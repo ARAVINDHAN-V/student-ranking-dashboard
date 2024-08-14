@@ -14,7 +14,7 @@ Frontend: React.js, Material-UI
 Database: MongoDB
 
 Getting Started:
-Clone the repository: git clone [https://github.com/@ARAVINDHAN-V/student-ranking-dashboard.git](https://github.com/ARAVINDHAN-V/student-ranking-dashboard/blob/main/04_140_project%20flow.pdf)
+Clone the repository: git clone [https://github.com/@ARAVINDHAN-V/student-ranking-dashboard.git](https://github.com/ARAVINDHAN-V/student-ranking-dashboard/blob/main/04_7376221SE105_project%20flow.pdf)
 Install dependencies: Navigate to the project directory and run npm install.
 Start the app: Run npm start to launch the application.
 This project aims to provide a comprehensive tool for students and faculty to monitor and improve academic performance through data-driven insights.
