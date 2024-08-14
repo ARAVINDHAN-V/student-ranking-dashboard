@@ -12,7 +12,6 @@ Tech Stack:
 Backend: Node.js, Express.js
 Frontend: React.js, Material-UI
 Database: MongoDB
-Visualization: Chart.js, D3.js
 
 Getting Started:
 Clone the repository: git clone [https://github.com/@ARAVINDHAN-V/student-ranking-dashboard.git](https://github.com/ARAVINDHAN-V/student-ranking-dashboard/blob/main/04_140_project%20flow.pdf)
