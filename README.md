@@ -15,7 +15,7 @@ Database: MongoDB
 Visualization: Chart.js, D3.js
 
 Getting Started:
-Clone the repository: git clone https://github.com/yourusername/student-ranking-dashboard.git
+Clone the repository: git clone https://github.com/@ARAVINDHAN-V/student-ranking-dashboard.git
 Install dependencies: Navigate to the project directory and run npm install.
 Start the app: Run npm start to launch the application.
 This project aims to provide a comprehensive tool for students and faculty to monitor and improve academic performance through data-driven insights.
